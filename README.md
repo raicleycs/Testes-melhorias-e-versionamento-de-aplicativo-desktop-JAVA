@@ -20,7 +20,7 @@ Abra o terminal e execute:
 git clone https://github.com/raicleycs/Testes-melhorias-e-versionamento-de-aplicativo-desktop-JAVA.git
 ```
 ```sh
-cd estoque-app-java
+cd estoqueApp
 ```
 
 ### Executando o aplicativo
