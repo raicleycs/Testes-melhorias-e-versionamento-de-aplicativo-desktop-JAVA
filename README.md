@@ -26,7 +26,7 @@ cd estoqueApp
 ### Executando o aplicativo
 1. Abra o projeto em um ambiente de desenvolvimento (ex: IntelliJ IDEA, Eclipse, VS Code).
 2. Compile e execute o programa:
-   - No IntelliJ IDEA ou Eclipse: Execute o arquivo `Main.java`.
+   - No IntelliJ IDEA ou Eclipse ou Netbeans: Execute o arquivo `Main.java`.
    - No terminal (usando Java CLI):
      ```sh
      javac EstoqueApp.java
