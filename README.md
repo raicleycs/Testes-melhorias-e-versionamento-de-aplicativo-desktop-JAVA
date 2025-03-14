@@ -17,7 +17,7 @@ Os alunos devem:
 ### Clonando o repositório
 Abra o terminal e execute:
 ```sh
-git clone https://github.com/seu-usuario/estoque-app-java.git
+git clone https://github.com/raicleycs/Testes-melhorias-e-versionamento-de-aplicativo-desktop-JAVA.git
 ```
 ```sh
 cd estoque-app-java
